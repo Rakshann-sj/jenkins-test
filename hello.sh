@@ -3,4 +3,4 @@
 echo "Jenkins Build Start"
 date
 hostname
-echo "Jenkins Build Successful"
+echo "Jenkins 2 Build Successful"
